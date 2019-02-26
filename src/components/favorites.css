@@ -1,0 +1,25 @@
+  .list {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    border: none;
+    overflow-x: hidden;
+}
+
+.button {
+    height: 35px;
+    width: 239px;
+    margin-bottom: 10px;
+    background: none;
+    color: whitesmoke;
+
+    border: 2px solid whitesmoke;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 16px;
+  }

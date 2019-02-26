@@ -1,0 +1,95 @@
+/* weather.css */
+
+.forecasttable{
+  font-size: 80%;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.forecasttable img{
+  width: 45%;
+  height: auto;
+}
+
+.forecasttable table{
+  margin: auto;
+  padding-top: 0px;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.forecasttable th{
+  padding: 4px;
+  border-bottom:1pt solid whitesmoke;
+}
+
+.forecasttable td{
+  column-gap: 5px;
+  padding: 4px;
+}
+
+.location {
+    color: white;
+    font-size: 14px;
+  }
+
+.location p{
+  margin: 10px, 0px, 0px,0px;
+  padding: 0;
+}
+
+.temperature{
+  color: white;
+  font-size: 70px;
+}
+
+.temperature p{
+  margin: 0;
+  padding: 0;
+}
+
+.description{
+  text-transform: uppercase;
+  color: white;
+  font-size: 250%;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+}
+
+.description p{
+  margin: 0;
+  padding: 0;
+}
+
+.description img{
+  width: 10%;
+  height: auto;
+}
+
+.button {
+  height: 40px;
+  width: 130px;
+  background-color: lightseagreen; 
+  border: 2px solid whitesmoke;
+  color: white;
+  margin-top: 0px;
+  margin-right: 5px;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
+
+	
+.store_del {
+    cursor:pointer;
+    float: left;
+}
+
+.store_del p {
+  padding: 0;
+  margin: 0;
+  float: left;
+}

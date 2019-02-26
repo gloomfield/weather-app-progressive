@@ -1,0 +1,47 @@
+.FormText{
+    background-color: aliceblue;
+    font-size: 12px;
+    color: black;
+    margin: auto;
+    padding: 4px 4px 4px 4px;
+    width: 240px;
+    border: 2px solid whitesmoke;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1), 0 2px 4px 1px rgba(0,0,0,.18);
+    list-style-type: none;
+}
+
+.FormText input {
+    text-align: left;
+    font-size: 12px;
+    height: 25px;
+    width: 170px;
+    margin-bottom: 0px;
+}
+
+.FormText p {
+    margin: 5px 0px 0px 0px;
+}
+
+.list {
+    text-align: left;
+    font-size: 12px;
+    margin: 0;
+    padding: 0px 0px 0px 14px;
+    list-style: none;
+    width: 220px;
+    border: none;
+    overflow-x: hidden;
+    max-height: 350px;
+}
+
+.button {
+    height: 30px;
+    background-color: lightseagreen; 
+    border: none;
+    color: white;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+  }
